@@ -13,6 +13,7 @@ Tala um Smithsonian
 For the first week of classes I made three sketches of three ideas I had that would visualize some quantitative dataset from the Smithsonian. One of those ideas was a funny looking spiral graph of an interesting and niche subject that people seemed to like. 
 Picture 1: Shows all of the scetches in a single photp
 ![IMG_0344](https://user-images.githubusercontent.com/73747671/132769152-e50b12ef-f2bd-423f-bf44-389fe3cee8ac.jpg)
+The goal here is to show the use of wigs in a creative timeline manner that also shows the scale of use. Wigs were at one time a sign of wealth and prosperiety, and of social class. A fascinating look at the combination of fashion and class distinction. Spiral Plots like these are versatile way of showing showing fairly large data sets, usually to show trends over a large time period. The data set is not very large, but large enough. About 140 points.
 
 Second:
 Making the spiral. The next weeks went mostly towards making the spiral itself. How do I do it? the answer will probably not shock you: A lot of Googling. 
