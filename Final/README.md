@@ -11,6 +11,8 @@ First:
 Tala um Smithsonian
 
 For the first week of classes I made three sketches of three ideas I had that would visualize some quantitative dataset from the Smithsonian. One of those ideas was a funny looking spiral graph of an interesting and niche subject that people seemed to like. 
+Picture 1: Shows all of the scetches in a single photp
+![IMG_0344](https://user-images.githubusercontent.com/73747671/132769152-e50b12ef-f2bd-423f-bf44-389fe3cee8ac.jpg)
 
 Second:
 Making the spiral. The next weeks went mostly towards making the spiral itself. How do I do it? the answer will probably not shock you: A lot of Googling. 
