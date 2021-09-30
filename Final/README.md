@@ -18,12 +18,18 @@ The goal here is to show the use of wigs in a creative timeline manner that also
 Second:
 Making the spiral. The next weeks went mostly towards making the spiral itself. How do I do it? the answer will probably not shock you: A lot of Googling. 
 
-Third:
+Picture:
+<img width="797" alt="Screenshot 2021-09-29 at 23 43 52" src="https://user-images.githubusercontent.com/73747671/135383656-d4d37f96-cff4-4fd0-9aa6-e3ba85fc824a.png">
 
+
+
+Third:
 The goal of the visualization is to show a timeline of the use of wigs in portraits. The main goal then is to get the date of every picture.
 Aquiring the data: Unfortunately or possibly fortunately, most of the data was not stored in the API yet and most of it did not have CCO enabled media. So I made a simple Python Script that simply aquires the data from the Smithsonian collections website, See photo:
 
 Myndin hér:
+<img width="950" alt="Screenshot 2021-09-29 at 23 46 51" src="https://user-images.githubusercontent.com/73747671/135383868-a224b01a-924b-44dc-a139-d358ee8129a4.png">
+
 
 The script exports the data as a CSV file. And with some simple CSV cleaning up I was able to get a CSV file that has 3 columns: Count, Decade, Centuries. But the data needed by the spiral i based my design on needed to be in an JSON file. So I started googling again how I can simply change my csv file to a JSON file. I even asked my Mentor! She simply sent me a link to an CSV to JSON converter and I happily used that. 
 Ok, I have my data, I have my spiral, and I have put it together
