@@ -1,0 +1,42 @@
+      body {
+        font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
+        margin: 40px;
+      }
+      .axis path {
+        fill: none;
+        stroke: #999;
+        stroke-dasharray: 2 3;
+      }
+      .axis text {
+        font-size: 200px;
+        stroke: #222;
+      }
+      text.title {
+        font-size: 300px;
+      }
+      circle.tick {
+        fill: #f3f3f3;
+        stroke: #999;
+        stroke-dasharray: 2 10;
+      }
+      path.spiral {
+        fill: none;
+        stroke: #ee8d18;
+        stroke-width: 30px;
+      }
+
+
+.tooltip {
+    background: #eee;
+    box-shadow: 0 0 100px #f70909;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    left: 90%;
+    padding: 10px;
+    position: fixed;
+    text-align: right;
+    top: 95px;
+    z-index: 100;
+    display: inline-block;
+    opacity: 0;
+}
