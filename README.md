@@ -23,3 +23,9 @@ The goal here is to visualize where each subject of a portait was born in a cale
 
 You can also see the photos in the wiki page.
 
+
+Design mockup and first prototype:
+
+After settling on the spiral design as the project, I went to work with gathering the data. Quite quickly I noticed that the data avalaible in the API with CCO enabled media was very limited. The solution to that was to make data-sctipting script that simply extracts the data from the Smithsonian Collections Website. 
+
+
