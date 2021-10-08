@@ -27,5 +27,13 @@ You can also see the photos in the wiki page.
 Design mockup and first prototype:
 
 After settling on the spiral design as the project, I went to work with gathering the data. Quite quickly I noticed that the data avalaible in the API with CCO enabled media was very limited. The solution to that was to make data-sctipting script that simply extracts the data from the Smithsonian Collections Website. 
+I used Python to make a simple scarping program, by using the packages BeautifulSoup and Panda, in the end the dataset was roughly 450 datapoints, after cleaning it up a bit a total of just under 400 points were usable.
 
+<img width="503" alt="Screenshot 2021-09-29 at 23 46 33" src="https://user-images.githubusercontent.com/73747671/136600257-2fad5ce3-eae8-4740-badf-80214a38389b.png">
+ 
+While working on the script and getting it to work. I got to work on creating the spiral. With the help of numerous youtube videos and very helpful visualizations from https://www.d3-graph-gallery.com/. I realized after rading about d3.radialLine that there are two steps: Creating the circualar line and then adding the bars (http://using-d3js.com/05_03_radial_lines.html).
 
+After using radialLine The visualization had become to:
+<img width="797" alt="Screenshot 2021-09-29 at 23 43 52" src="https://user-images.githubusercontent.com/73747671/136600954-277e5b08-80f4-467d-a49b-e2a0b3220b5a.png">
+
+Now all that is needed is actually placing the bars on the spiral, no biggie right? 
