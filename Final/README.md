@@ -8,7 +8,6 @@ This Readme file will contain the project info and the story of how I made the v
 
 First:
 
-Tala um Smithsonian
 
 For the first week of classes I made three sketches of three ideas I had that would visualize some quantitative dataset from the Smithsonian. One of those ideas was a funny looking spiral graph of an interesting and niche subject that people seemed to like. 
 Picture 1: Shows all of the scetches in a single photp
@@ -27,7 +26,6 @@ Third:
 The goal of the visualization is to show a timeline of the use of wigs in portraits. The main goal then is to get the date of every picture.
 Aquiring the data: Unfortunately or possibly fortunately, most of the data was not stored in the API yet and most of it did not have CCO enabled media. So I made a simple Python Script that simply aquires the data from the Smithsonian collections website, See photo:
 
-Myndin hér:
 <img width="950" alt="Screenshot 2021-09-29 at 23 46 51" src="https://user-images.githubusercontent.com/73747671/135383868-a224b01a-924b-44dc-a139-d358ee8129a4.png">
 
 
